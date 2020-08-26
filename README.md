@@ -1,2 +1,2 @@
 # Backtracking
-salir del laberinto atraves del algoritmo de backtracking
+This algorithm search the way of go out in the different maze
